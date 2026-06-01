@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(100, 109, 136);
+font-family: sans-serif;
+margin: 20px;
+}
+
+footer{
+    background-color: rgb(138, 139, 146);
+    padding: 20px;
+}
+h1{
+    text-align:center;
+}
+p{
+text-align: justify;
+}
+
+img{
+
+    width: 200px;
+    border-radius: 80px;
+    margin: 30px;
+}
